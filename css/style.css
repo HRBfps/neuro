@@ -34,7 +34,7 @@ body {
 
 button:hover {
     transition: 400ms;
-    filter:brightness(1.1)
+    filter:brightness(1.3)
 }
 img:hover {
     transition: 400ms;
@@ -42,4 +42,8 @@ img:hover {
 }
 p {
     text-align: center;
+}
+
+.bar img {
+    border-radius: 20px;
 }
